@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @carsonrobertsg2019, my name is Carson Roberts
-- 👀 I’m interested in VueJS, Python, and Music Theory
+- 👀 I’m interested in VueJS/Typescript, Python, and Mudblazor
